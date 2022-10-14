@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wezersovvv
 - 🌱 I’m currently learning Java
-- 💞️ I'm collaborating with Whoosh.bike
+- 💞️ I’m looking to collaborate with Whoosh.bike
 - 📫 How to reach me @wezersovvv (Telegram)
 
 <!---
